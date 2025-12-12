@@ -1,6 +1,8 @@
 # Organization Management API
 
 FastAPI backend for multi-tenant organization management with MongoDB.
+A high level sequence diagram of the project :
+[Link Text](https://excalidraw.com/#json=u4F6qbOLDIfvx4VEDmLjf,4JRjUhMjjq73fVKHJNBi2g)
 
 ## Features
 
